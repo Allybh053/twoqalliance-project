@@ -26,4 +26,9 @@ Create New Company
 
 ![image](https://github.com/user-attachments/assets/a12d39ed-5f16-422f-91aa-ee81e0631025)
 
+Company add:
+
+----------------------
+
+![image](https://github.com/user-attachments/assets/7714ac34-2303-4eb2-a668-90e170524f12)
 
