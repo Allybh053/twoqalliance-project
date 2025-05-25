@@ -32,3 +32,10 @@ Company add:
 
 ![image](https://github.com/user-attachments/assets/7714ac34-2303-4eb2-a668-90e170524f12)
 
+Deleted company:
+
+-------------------------
+
+![image](https://github.com/user-attachments/assets/650904dc-5348-4396-b321-372fe5c598c7)
+![image](https://github.com/user-attachments/assets/aa48e86b-5db1-4b0c-818f-5144afc3d6fb)
+
